@@ -67,10 +67,7 @@ const App = () => {
               <h2>Jawad Ali</h2>
             </div>
             <p>
-              I am passionate about building beautiful and functional user
-              interfaces.
-              <br />
-              Currently working on blockchain and AI.
+            I am a skilled MERN stack developer with expertise in building modern, user-friendly, and high-performance web applications. I specialize in creating seamless solutions, whether it's an e-commerce site, a blockchain-based application, or an innovative art marketplace. My goal is to deliver projects that exceed your expectations. Let's collaborate to bring your ideas to life!
             </p>
           </div>
           <div className="right-cards flex col">
